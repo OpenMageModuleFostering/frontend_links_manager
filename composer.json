@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Frontend_Links_Manager",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Frontend Links Manager extension is used to turn on/off the frontend links(top links, footer links, customer navigation links & catalog navigation links) is easier way via backend.",
+    "authors": [
+    {
+        "name": "MagePsycho",
+        "email": "rajen_k_bhtt@hotmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
